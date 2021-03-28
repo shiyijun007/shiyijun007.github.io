@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shiyijun007.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-03-28T12:54:10.186Z</updated>
+    <title>芳姑娘</title>
+    <updated>2021-03-28T12:58:44.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shiyijun007.github.io"/>
     <link rel="self" href="https://shiyijun007.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Smile-fang</subtitle>
     <logo>https://shiyijun007.github.io/images/avatar.png</logo>
     <icon>https://shiyijun007.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 芳姑娘</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://shiyijun007.github.io/post/hello-gridea/</id>
